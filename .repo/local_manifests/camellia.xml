@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree for Redmi Note 10 5G (camellia) -->
+  <project name="dm700-devs/device_xiaomi_camellia" path="device/xiaomi/camellia" remote="github" revision="lineage-21" />
+
+  <!-- Hardware dependencies -->
+  <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-21" />
+</manifest>
